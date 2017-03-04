@@ -30,7 +30,7 @@ function addDataToMap(data, map) {
     dataLayer.addTo(map);
 }
 
-$.getJSON("airports.geojson", function(data) { addDataToMap(data, map); });
+$.getJSON("airports.json", function(data) { addDataToMap(data, map); });
 // $.getJSON("earthquakes_Nov26_2016.geojson", function(data) { addDataToMap(data, map); });
 </script>
 </body>
