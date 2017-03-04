@@ -1,0 +1,11 @@
+{
+"type":"Feature",
+"properties": {
+				  "name": "Jorge Monge",
+				  "age": "44",
+				  "url": "http://www.jorgemonge.ca"
+				  },
+"geometry": {"type":"Point",
+             "coordinates": [-122.8481674,38.8321648,1.12]
+             }
+}
